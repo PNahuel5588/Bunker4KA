@@ -43,7 +43,7 @@ servicios Dockerizados:
 
 ## Arquitectura
 
-![Tipología Bunker 4](docs/images/bunker4_topologia.png)
+![Topología Bunker 4](docs/images/4aeb5ac9-619d-4ea8-ab63-59442cf9dea3.jpeg)
 
 | Capa | Componente | Descripción |
 |---|------------|-------------|
